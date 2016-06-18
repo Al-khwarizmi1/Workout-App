@@ -58,7 +58,7 @@ return [
             'port' => env('DB_PORT', '3306'),
             'database' => env('DB_DATABASE', 'workout'),
             'username' => env('DB_USERNAME', 'root'),
-            'password' => env('DB_PASSWORD', '#11bulldogs'),
+            'password' => env('DB_PASSWORD', ''),
             'charset' => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix' => '',
